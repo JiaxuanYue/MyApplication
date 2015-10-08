@@ -56,6 +56,66 @@
             android:name=".TradeDetailCompelte"
             android:label="@string/title_activity_trade_detail_compelte" >
         </activity>
+        <activity
+            android:name=".BaseActivity"
+            android:label="@string/title_activity_base" >
+        </activity>
+        <activity
+            android:name=".MyInventoryActivity"
+            android:label="@string/title_activity_my_inventory" >
+        </activity>
+        <activity
+            android:name=".EidtOrAddNewActivity"
+            android:label="@string/title_activity_eidt_or_add_new" >
+        </activity>
+        <activity
+            android:name=".DVDActivity"
+            android:label="@string/title_activity_dvd" >
+        </activity>
+        <activity
+            android:name=".MyFriendsListActivity"
+            android:label="@string/title_activity_my_friends_list" >
+        </activity>
+        <activity
+            android:name=".FriendProfileActivity"
+            android:label="@string/title_activity_friend_profile" >
+        </activity>
+        <activity
+            android:name=".FriendInventoryActivity"
+            android:label="@string/title_activity_friend_inventory" >
+        </activity>
+        <activity
+            android:name=".TradeCenterActivity"
+            android:label="@string/title_activity_trade_center" >
+        </activity>
+        <activity
+            android:name=".TradeDetailsActivity"
+            android:label="@string/title_activity_trade_details" >
+        </activity>
+        <activity
+            android:name=".MyTradeDetailsActivity"
+            android:label="@string/title_activity_my_trade_details" >
+        </activity>
+        <activity
+            android:name=".IncomingTradeActivity"
+            android:label="@string/title_activity_incoming_trade" >
+        </activity>
+        <activity
+            android:name=".ImcomingDetailsActivity"
+            android:label="@string/title_activity_imcoming_details" >
+        </activity>
+        <activity
+            android:name=".AcceptDetailsActivity"
+            android:label="@string/title_activity_accept_details" >
+        </activity>
+        <activity
+            android:name=".DeclineDetailsActivity"
+            android:label="@string/title_activity_decline_details" >
+        </activity>
+        <activity
+            android:name=".EditOrAddNewActivity"
+            android:label="@string/title_activity_edit_or_add_new" >
+        </activity>
     </application>
 
 </manifest>

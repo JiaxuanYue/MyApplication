@@ -5,18 +5,18 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-public class NewTrade extends AppCompatActivity {
+public class FriendInventoryActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_new_trade);
+        setContentView(R.layout.activity_friend_inventory);
     }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_new_trade, menu);
+        getMenuInflater().inflate(R.menu.menu_friend_inventory, menu);
         return true;
     }
 
